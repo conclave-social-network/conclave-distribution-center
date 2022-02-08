@@ -2,7 +2,7 @@
   "name": "conclave-distribution-center",
   "private": true,
   "scripts": {
-    "dev": "meteor run --port 2101",
+    "dev": "meteor run --port 2100",
     "test": "cypress open",
     "test:ci": "cypress run"
   },
