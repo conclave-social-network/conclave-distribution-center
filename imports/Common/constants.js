@@ -1,0 +1,2 @@
+export const APP_NAME = "PC_DISTRIBUTION_CENTER"
+export const TWO_HOURS_IN_MILLISECONDS = 2 * 60 * 60 * 1000
